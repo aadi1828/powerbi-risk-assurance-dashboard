@@ -72,19 +72,6 @@ The dashboard enables users to identify:
 - Business Intelligence
 - Risk Analytics
 - Interactive Reporting
-
-## 📂 Project Structure
-
-```text
-Risk-Assurance-Analytics-Dashboard/
-│
-├── Risk_Assurance_Analytics_Dashboard.pbix
-├── README.md
-│
-└── screenshots/
-    ├── executive-overview.png
-    └── risk-assurance-analysis.png
-
 ## 🖼️ Dashboard Preview
 
 ### Executive Assurance Overview
@@ -116,3 +103,15 @@ B.Tech in Artificial Intelligence & Machine Learning
 ---
 
 ⭐ If you found this project useful, feel free to explore the dashboard and its implementation.
+
+## 📂 Project Structure
+
+```text
+Risk-Assurance-Analytics-Dashboard/
+│
+├── Risk_Assurance_Analytics_Dashboard.pbix
+├── README.md
+│
+└── screenshots/
+    ├── executive-overview.png
+    └── risk-assurance-analysis.png
